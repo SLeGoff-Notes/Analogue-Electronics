@@ -3,5 +3,6 @@ Welcome to my collection of writings on key concepts in analogue electronics, wi
 Still under construction. Please ignore lines below.
 * [In](Coding Theory - Part 1 to 4.pdf) 
 * [PN junctions (diodes)](PN Junctions.pdf)
-* [Bl](Coding Theory - Part 6.pdf)
+* [Tutorial on diode circuits](Tutorial - Diode Circuits.pdf)
+* [Tutorial on diode circuits - Solutions](Tutorial - Diode Circuits - Solutions.pdf)
 * [Co](Coding Theory - Part 7.pdf)
