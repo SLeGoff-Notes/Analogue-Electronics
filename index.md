@@ -8,5 +8,5 @@ Still under construction.
 * [Tutorial on diode circuits](Tutorial - Diode Circuits.pdf)
 * [Tutorial on diode circuits - Solutions](Tutorial - Diode Circuits - Solutions.pdf)
 * [Bipolar Junction Transistors](Bipolar Junction Transistors.pdf)
-* [Bipolar Junction Transistors](Coding Theory - Part 7.pdf)
-* [Bipolar Junction Transistors](Coding Theory - Part 7.pdf)
+* [Tutorial on BJT Circuits](Tutorial - BJT Circuits.pdf)
+* [Tutorial on BJT Circuits - Solutions](Tutorial - BJT Circuits - Solutions.pdf)
