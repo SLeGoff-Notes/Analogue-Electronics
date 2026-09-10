@@ -1,6 +1,5 @@
-<div align="center">
 # Stephane Le Goff's analogue electronics portfolio
-</div>
+
 Welcome to Dr Le Goff's collection of writings in analogue electronics, with a focus on key concepts such as semiconductor devices (diodes, BJTs, and FETs) and amplifier design. This material is highly suitable for undergraduate students in electrical and electronic engineering.
 
 Click on any link to view/download the corresponding document.
