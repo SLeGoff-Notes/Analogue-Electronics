@@ -6,16 +6,17 @@ Click on any link to view/download the corresponding document.
 
 Still under construction.
 
-* [Semiconductors](Semiconductors.pdf)\
+* [Semiconductors](Semiconductors.pdf)
   
 * [PN junctions (diodes)](PN Junctions.pdf)
 * [Tutorial on diode circuits](Tutorial - Diode Circuits.pdf)
-* [Tutorial on diode circuits - Solutions](Tutorial - Diode Circuits - Solutions.pdf)\
+* [Tutorial on diode circuits - Solutions](Tutorial - Diode Circuits - Solutions.pdf)
   
 * [Bipolar junction transistors](Bipolar Junction Transistors.pdf)
 * [Tutorial on BJT circuits](Tutorial - BJT Circuits.pdf)
 * [Tutorial on BJT circuits - Solutions](Tutorial - BJT Circuits - Solutions.pdf)\
   
-* [Linear amplifiers](Linear Amplifiers.pdf)\
+* [Linear amplifiers](Linear Amplifiers.pdf)
+  
 * [Tutorial on BJT amplifiers](Tutorial - BJT Amplifiers.pdf)
 * [Tutorial on BJT amplifiers - Solutions](Tutorial - BJT Amplifiers - Solutions.pdf)
