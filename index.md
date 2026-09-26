@@ -4,9 +4,7 @@ Welcome to Stephane Le Goff's collection of writings on analogue electronics, wi
 
 Click on any link to view/download the corresponding document.
 
-Still under construction.
-
-* [Semiconductors](Semiconductors.pdf)
+* [Semiconductors - Coming soon](Semiconductors.pdf)
   
 * [PN junctions (diodes)](PN Junctions.pdf)
 * [Tutorial on diode circuits](Tutorial - Diode Circuits.pdf)
@@ -18,5 +16,6 @@ Still under construction.
   
 * [Linear amplifiers](Linear Amplifiers.pdf)
   
-* [Tutorial on BJT amplifiers](Tutorial - BJT Amplifiers.pdf)
-* [Tutorial on BJT amplifiers - Solutions](Tutorial - BJT Amplifiers - Solutions.pdf)
+* [Design of linear amplifiers using BJTs](BJT Amplifiers.pdf)
+* [Tutorial on BJT amplifiers - Coming soon](Tutorial - BJT Amplifiers.pdf)
+* [Tutorial on BJT amplifiers - Solutions - Coming soon](Tutorial - BJT Amplifiers - Solutions.pdf)
