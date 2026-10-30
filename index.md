@@ -12,7 +12,7 @@ Click on any link to view/download the corresponding document.
   
 * [Bipolar junction transistors](Bipolar Junction Transistors.pdf)
 * [Tutorial on BJT circuits](Tutorial - BJT Circuits.pdf)
-* [Tutorial on BJT circuits - Solutions](Tutorial - BJT Circuits - Solutions.pdf)\
+* [Tutorial on BJT circuits - Solutions](Tutorial - BJT Circuits - Solutions.pdf)
   
 * [Linear amplifiers](Linear Amplifiers.pdf)
   
