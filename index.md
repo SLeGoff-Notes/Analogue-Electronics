@@ -18,4 +18,4 @@ Click on any link to view/download the corresponding document.
   
 * [Design of linear amplifiers using BJTs](BJT Amplifiers.pdf)
 * [Tutorial on BJT amplifiers](Tutorial - BJT Amplifiers.pdf)
-* [Tutorial on BJT amplifiers - Solutions - Coming soon](Tutorial - BJT Amplifiers - Solutions.pdf)
+* [Tutorial on BJT amplifiers - Solutions](Tutorial - BJT Amplifiers - Solutions.pdf)
